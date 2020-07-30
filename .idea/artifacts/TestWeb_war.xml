@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="TestWeb:war">
+    <output-path>E:/ITsoft/tomcat8.5/webapps</output-path>
+    <root id="archive" name="TestWeb_war.war">
+      <element id="artifact" artifact-name="TestWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
